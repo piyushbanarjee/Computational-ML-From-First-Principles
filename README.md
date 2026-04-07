@@ -1,4 +1,10 @@
-# ⚡ JAX Machine Learning Models
+#  Machine Learning Models Using JAX
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/02098010-24a8-4b9e-9a14-111d3b5f97a4" width="120" />
+  <img src="https://github.com/user-attachments/assets/35c1ae61-05ce-4f20-966f-70050aeb9634" width="100" />
+  <img src="https://github.com/user-attachments/assets/36046bf0-77dd-49cd-bc70-bc1dbaf8e5a0" width="80" />
+</p>
+
 
 ---
 
