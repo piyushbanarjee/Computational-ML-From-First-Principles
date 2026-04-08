@@ -16,6 +16,7 @@ This repository focuses on implementing **core machine learning models using JAX
 * Mathematical clarity
 * High-performance computation
 
+**Along with Handwritten notes for each model**
 ---
 
 # Roadmap (Priority-Based)
