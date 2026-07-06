@@ -87,16 +87,6 @@ This repository focuses on implementing **core machine learning models using JAX
 
 ---
 
-## Tier 5 — Transformers & GenAI
-
-* transformer
-* attention_mechanism
-* gpt_like_model
-* bert_like_model
-* diffusion_model
-
----
-
 # Why JAX?
 
 * XLA-based acceleration
